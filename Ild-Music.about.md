@@ -10,5 +10,3 @@ Found bug, have an idea notice in [Discord](https://discord.gg/dXqkwyyR) or [Iss
 
 
 Any commercial purposes are prohibited.
-
-With love to the world ❤️🌎 
