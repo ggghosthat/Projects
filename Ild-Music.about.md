@@ -1,12 +1,11 @@
 ## Introduction
 Ild-Music is freely distributed music player contributed by (ggghosthat)[https://github.com/ggghosthat/].
-It has compatibilities with such operating systems as:
+Has compatibilities with various operating systems. Some will be expanded in in future versions.
+There will be Mac OS and Unix family systems to enable.
 
-- Windows
-- Linux
+If you found out any bug or have any idea notice in :
 
-There are Mac OS and BSD family systems to enable.
-If you found out any bug or have any idea notice in : 
-- Discord
-- Issues 
+- (Discord)[https://discord.gg/dXqkwyyR]
+- (Issues)[https://github.com/ggghosthat/Projects/issues]
+
 All Ild-Music project rights reserved for (ggghosthat)[https://github.com/ggghosthat/]. Any commercial purposes are prohibited.
