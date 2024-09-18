@@ -1,4 +1,3 @@
-## ABOUT
 Ild-Music is freely distributed music player contributed by [ggghosthat](https://github.com/ggghosthat/).
 
 Has compatibilities with various operating systems. Some will be expanded in in future versions.
