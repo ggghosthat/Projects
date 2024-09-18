@@ -7,4 +7,6 @@ There will be Mac OS and Unix family systems to enable.
 
 If you found out any bug or have any idea notice in [Discord](https://discord.gg/dXqkwyyR) or [Issues](https://github.com/ggghosthat/Projects/issues)
 
-All Ild-Music project rights reserved for [ggghosthat](https://github.com/ggghosthat/). Any commercial purposes are prohibited.
+Any commercial purposes are prohibited.
+
+With love to the world ❤️🌎 
