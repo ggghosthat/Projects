@@ -9,4 +9,4 @@ There will be Mac OS and Unix family systems to enable.
 Found bug, have an idea notice in [Discord](https://discord.gg/dXqkwyyR) or [Issues](https://github.com/ggghosthat/Projects/issues).
 
 
-Any commercial purposes are prohibited.
+Any commercial use are prohibited.
